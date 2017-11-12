@@ -4,59 +4,6 @@
   <title>Font Awesome Icons</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  
-  <style type="text/css">
-  /*Navegation bar*/
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 10%;
-  background-color: #fac6cd;
-  height: 100%; /* Full height */
-  position: fixed; /* Make it stick, even on scroll */
-  overflow: auto; /* Enable scrolling if the sidenav has too much content */
-}
-
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-  text-align: center;
-  border-bottom: 1px solid #555;
-  font-size: 14px;
-}
-
-/* Change the link color on hover */
-li a:hover {
-  background-color: #d7bcc8;
-  color: #495c63;
-}
-
-/*End of navegation bar wise code*/
-
-#albn {
-  margin: 60px 60px 60px 150px;
-  text-align: center;
-  background-color: #d7bcc8;
-}
-
-#p1 {
-  border-style: groove;
-  border-width: 1px;
-  margin-left: 100px;
-  margin-right: 100px;
-  font-size: 18px;
-  background-color: #98b6b1;
-}
-#prt {
-  font-size: 16px;
-  color: black;
-}
-#pcon {
-  font-size: 30px;
-}</style>
 </head>
 
 <body>
